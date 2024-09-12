@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [sk10codebase.online](sk10codebase.online)
 
-- 💬 Ask me about **Hosting & Servers,React & Node.js ,Google Cloud & AWS, AI & Machine Learning, Cybersecurity, Automation , Problem-Solving & Debugging**
+- 💬 Ask me about **Hosting & Servers,React & Node.js ,Google Cloud & AWS, AI & Machine Learning, Cybersecurity, Automation ,Ollama, Problem-Solving & Debugging**
 
 - 📫 How to reach me **info@sk10codebase.online**
 
