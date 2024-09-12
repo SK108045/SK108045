@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Payment Gateways and Firebase**
 
-- 👨‍💻 Some of my projects are available at [sk10codebase.online](sk10codebase.online)
+- 👨‍💻 Some of my projects are available at [sk10codebase.online](https://sk10codebase.online/)
 
 - 💬 Ask me about **Hosting & Servers,React & Node.js ,Google Cloud & AWS, AI & Machine Learning, Cybersecurity, Automation ,Ollama, Problem-Solving & Debugging**
 
