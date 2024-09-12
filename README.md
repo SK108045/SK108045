@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Hosting & Servers,React & Node.js ,Google Cloud & AWS, AI & Machine Learning, Cybersecurity, Automation ,Ollama, Problem-Solving & Debugging**
 
-- 💻 Interested in the darker side of coding ? **If you’re up for creating malware, Trojans, or Zero-day exploits, let's connect.**
+- 💻 Interested in the darker side of coding ? **If you’re up for creating Malware, Trojans, or Zero-day exploits, let's connect.**
 
 - 📫 How to reach me **info@sk10codebase.online**
 
