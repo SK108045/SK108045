@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A passionate developer from Keny</h3>
 
 - 🌱 I’m currently learning **Next.js, Payment Gateways and Firebase**
 
