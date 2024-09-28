@@ -4,18 +4,30 @@
 </div>---->
 
 
-<h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h1 align="center">Hey there , I'm John</h1>
+<h3 align="center">Full-Stack Developer | Cyber Alchemist | Code Explorer from Kenya</h3>
 
-- 🌱 I’m currently learning **Next.js, Payment Gateways and Firebase**
+---
 
-- 👨‍💻 Some of my projects are available at [sk10codebase.online](https://sk10codebase.online/)
+- 🔥 **Current Grind:** Deep diving into **Next.js**, Payment Systems, and **Firebase**, mastering tomorrow’s tech today.
+  
+- 🧠 **Projects & Portfolio:** Discover some of my creations at [sk10codebase.online](https://sk10codebase.online) and see what the future holds.
 
-- 💬 Ask me about **Hosting & Servers,React & Node.js ,Google Cloud & AWS, AI & Machine Learning, Cybersecurity, Automation ,Ollama, Problem-Solving & Debugging**
+- 🦾 **Expertise:**
+   - Hosting & Servers
+   - React & Node.js
+   - Google Cloud & AWS
+   - AI & Machine Learning
+   - Cybersecurity & Dark Arts Coding
+   - Problem-Solving & Debugging (I don't stop till it's fixed 🔧)
 
-- 💻 Interested in the darker side of coding ? **If you’re up for creating Malware, Trojans, or Zero-day exploits, let's connect.**
+- 🌑 **Into the Abyss?** If you're ready to explore the depths of malware crafting, zero-day exploits, or ethical hacking, let's dive in.
 
-- 📫 How to reach me **info@sk10codebase.online**
+- 📬 **Reach Me:** Shoot a message at **info@sk10codebase.online**, let’s make magic happen.
+
+---
+> "Code is my canvas, and every bug is a challenge begging to be conquered." 
+
 
 ![Giphy GIF](https://media.giphy.com/media/wZHlVEfXtXwuUNfI41/giphy.gif)
 
