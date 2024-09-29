@@ -18,7 +18,7 @@
 - **Reach Me:** at **info@sk10codebase.online** .
 
 ---
-> "Code is my canvas, and every bug is a challenge begging to be conquered." 
+
 
 
 
