@@ -8,7 +8,7 @@
 - **Expertise:**
    - Google Cloud & AWS
    - React & Node.js
-   - Hosting & Servers #SelfHostedByTheWay
+   - Hosting & Servers **#SelfHostedByTheWay**
    - AI & Machine Learning
    - Cybersecurity & Dark Arts Coding
    - Problem-Solving & Debugging
