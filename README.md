@@ -8,10 +8,10 @@
 - **Expertise:**
    - Google Cloud & AWS
    - React & Node.js
-   - Hosting & Servers #SelfHosted
+   - Hosting & Servers #SelfHostedByTheWay
    - AI & Machine Learning
    - Cybersecurity & Dark Arts Coding
-   - Problem-Solving & Debugging (I don't stop till it's fixed)
+   - Problem-Solving & Debugging
 
 - **Into the Abyss?** If you're ready to explore the depths of malware crafting, zero-day exploits, or ethical hacking, let's connect.
 
