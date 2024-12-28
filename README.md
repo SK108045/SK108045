@@ -3,7 +3,7 @@
 
 ---
 -  I’m currently learning **Next.js, Payment Gateways and Firebase**  
-- **Projects & Portfolio:** Some of my projects are available [here](https://portfolio.sk10codebase.online/).
+- **Projects & Portfolio:** Some of my projects are available [here](https://sk10codebase.online/).
 
 - **Expertise:**
    - Google Cloud & AWS
