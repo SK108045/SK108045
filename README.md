@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Developer | Cyber Alchemist | Code Explorer from Kenya</h3>
 
 ---
--  I’m currently learning **Next.js, Payment Gateways and Firebase**  
 - **Projects & Portfolio:** Some of my projects are available [here](https://sk10codebase.online/).
 
 - **Expertise:**
