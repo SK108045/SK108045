@@ -12,9 +12,10 @@
    - Cybersecurity & Dark Arts Coding
    - Problem-Solving & Debugging
 
-- **Into the Abyss?** If you're ready to explore the depths of malware crafting, zero-day exploits, or ethical hacking, let's connect.
+<!-- **Into the Abyss?** If you're ready to explore the depths of malware crafting, zero-day exploits, or ethical hacking, let's connect.
 
-- **Reach Me:** at **info@sk10codebase.online** .
+- **Reach Me:** at **info@sk10codebase.online** . 
+--->
 
 ---
 
