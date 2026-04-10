@@ -1,8 +1,7 @@
-<h1 align="center">Hey there, I'm John</h1>
+<h1 align="center">Hey there</h1>
 <h3 align="center">Full-Stack Developer | Code Explorer from Kenya</h3>
 
 ---
-- **Projects & Portfolio:** Some of my projects are available [here](https://sk10codebase.online/).
 
 - **Expertise:**
    - Google Cloud & AWS
